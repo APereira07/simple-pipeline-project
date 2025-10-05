@@ -3,3 +3,6 @@ This project, Simple Pipeline Project, demonstrates an integrated software devel
 To get started, ensure you have Java 17 or 21, Maven, IntelliJ IDEA, Git, Jenkins, and optionally Docker installed. Clone the repository from GitHub and navigate to the project directory. The project can be built and tested locally using Maven commands, specifically mvn clean package to build and mvn test to run the tests. For the Jenkins pipeline demonstration, start Jenkins on http://localhost:8080, create a new pipeline job, and use the included Jenkinsfile to execute the automated pipeline, which will build and test the project. Docker can be used to run the application in a container using standard Docker build and run commands.
 
 This project emphasizes demonstrating a complete software development workflow rather than generating new or complex code. The calculator program is adapted from a previous assignment, and any external sources or reused code are properly cited. The main goal of this project is to show how all the pieces—development, version control, build automation, testing, CI/CD, and deployment—work together to create an efficient and reliable software development pipeline.
+
+
+VIDEO DEMONSTRATION: https://drive.google.com/file/d/1mWGjZwy4d9kcwRdhoOJ8IlRig28UV87w/view?usp=sharing
